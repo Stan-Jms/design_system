@@ -1,0 +1,7 @@
+.app {
+  margin-top: 125px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
