@@ -1,0 +1,17 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-content: center;
+  width: 472px;
+  height: 56px;
+  top: 38px;
+  padding: 0px;
+  gap: 24px;
+
+  /* input-color */
+
+  background: #151f2d;
+  border-radius: 8px;
+  border: 0 solid;
+}
